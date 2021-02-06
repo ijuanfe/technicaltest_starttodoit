@@ -15,4 +15,4 @@
   - penJDK 64-Bit Server VM AdoptOpenJDK (build 15.0.2+7, mixed mode, sharing)
 
 ## Notes:
-- The project with run by default in http://localhost:8080/ngameweb/index.zul
+- The project will run by default in http://localhost:8080/ngameweb/index.zul
