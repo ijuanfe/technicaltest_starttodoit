@@ -1,0 +1,12 @@
+<?page title="Auto Generated index.zul"?>
+<window title="N Game" border="normal" width="700px" contentStyle="" mode="overlapped" position="center, top" apply="com.ngameweb.controller.IndexController">
+
+	<label id="lblGameStatus"/>
+	<separator/>
+	<label id="lblInputNconfig" value="Board configuration:"/>
+	<textbox id="txbInputNconfig" type="text"/>
+	<button id="btnEnterNConfig" label="Enter"/>
+	<separator/>
+	<grid id="grdGameBoard"/>
+	
+</window>
